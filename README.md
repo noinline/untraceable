@@ -1,6 +1,9 @@
 ## Usage
 To use the program, open it and select option you need:  
-<Simple clean> <Deep clean> <Exit application>
+
+[1] Simple clean 
+[2] Deep clean
+[3] Exit application
  
 ## Compiling
 To compile untraceable, you can use the following command with Clang:    
